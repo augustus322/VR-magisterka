@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "AttachmentControls",
+    "maps": [
+        {
+            "name": "Gameplay",
+            "id": "40a3316e-b77c-45cd-9704-a3fc610ba2cd",
+            "actions": [
+                {
+                    "name": "Attatch",
+                    "type": "Button",
+                    "id": "77f8c698-bfef-4025-9b6e-7f194d7d29fb",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "510ce8b9-d0d0-43d9-b572-96c749a91775",
+                    "path": "<XRController>{RightHand}/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attatch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

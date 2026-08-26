@@ -1,0 +1,95 @@
+{
+    "version": 1,
+    "name": "LevelControls",
+    "maps": [
+        {
+            "name": "LevelSwitching",
+            "id": "d3afc919-771a-4651-b2d2-54d423d2be70",
+            "actions": [
+                {
+                    "name": "Level1",
+                    "type": "Button",
+                    "id": "aa03de72-2fa7-4757-b65b-d6c2a0d0234e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Level2",
+                    "type": "Button",
+                    "id": "c69e3ffa-7f2b-454e-a763-8457bfe0256a",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Reload",
+                    "type": "Button",
+                    "id": "25c5d64d-049c-4c53-a537-2c1d7ee55d04",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Unload",
+                    "type": "Button",
+                    "id": "5f1b7ad5-2e4a-42e6-8457-9e06edaa4dfc",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2cfcf2d5-f51a-426a-8a1a-def7b9c7a95e",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Level1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c232ba9a-0e19-46da-b500-1f018e83e020",
+                    "path": "<Keyboard>/2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Level2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "929dc3ef-5c84-4c5f-9c76-11d8b52a62d3",
+                    "path": "<Keyboard>/3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Reload",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "420c15e8-2011-4ef1-aa34-da65b0092a8b",
+                    "path": "<Keyboard>/4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Unload",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
