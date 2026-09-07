@@ -10,7 +10,6 @@ Library: G:\junity\projects\VR magisterka\Temp\BurstOutput\tempburstlibs\arm64-v
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=G:\junity\projects\VR magisterka\Temp\Burst
---debug=LineOnly
 --key-folder=G:/junity/6000.0.63f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=G:\junity\projects\VR magisterka\Library\Burst
 --output=G:\junity\projects\VR magisterka\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
@@ -98,7 +97,6 @@ Library: G:\junity\projects\VR magisterka\Temp\BurstOutput\tempburstlibs\arm64-v
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=G:\junity\projects\VR magisterka\Temp\Burst
---debug=LineOnly
 --key-folder=G:/junity/6000.0.63f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=G:\junity\projects\VR magisterka\Library\Burst
 --output=G:\junity\projects\VR magisterka\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
@@ -217,7 +215,6 @@ Library: G:\junity\projects\VR magisterka\Temp\BurstOutput\tempburstlibs\arm64-v
 --float-mode=Fast
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=G:\junity\projects\VR magisterka\Temp\Burst
---debug=LineOnly
 --key-folder=G:/junity/6000.0.63f1/Editor/Data/PlaybackEngines/AndroidPlayer
 --decode-folder=G:\junity\projects\VR magisterka\Library\Burst
 --output=G:\junity\projects\VR magisterka\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated

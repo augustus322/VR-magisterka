@@ -1089,11 +1089,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3771eb15df04a9040b9c79b43f85c069, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  followSpeed: 5
-  distanceInFront: 2
-  heightOffset: 0
-  customTarget: {fileID: 0}
-  target: {fileID: 0}
 --- !u!114 &179599741
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1106,9 +1101,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df8e1f3d0d1530148aba1eb0efb942ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotateYOnly: 0
-  invert: 0
-  cameraTransform: {fileID: 0}
 --- !u!1 &210589189
 GameObject:
   m_ObjectHideFlags: 0
@@ -1249,9 +1241,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df8e1f3d0d1530148aba1eb0efb942ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotateYOnly: 0
-  invert: 0
-  cameraTransform: {fileID: 0}
 --- !u!1001 &211176809
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1887,9 +1876,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df8e1f3d0d1530148aba1eb0efb942ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotateYOnly: 0
-  invert: 0
-  cameraTransform: {fileID: 0}
 --- !u!114 &306159884
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1902,11 +1888,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3771eb15df04a9040b9c79b43f85c069, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  followSpeed: 5
-  distanceInFront: 2
-  heightOffset: 0
-  customTarget: {fileID: 0}
-  target: {fileID: 0}
 --- !u!114 &306159885
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2077,6 +2058,14 @@ PrefabInstance:
       propertyPath: m_InteractionLayers.m_Bits
       value: 129
       objectReference: {fileID: 0}
+    - target: {fileID: 1820897918385990095, guid: d6878e1999eb4b44a9f5a263af86c185, type: 3}
+      propertyPath: m_CameraYOffset
+      value: 1.605
+      objectReference: {fileID: 0}
+    - target: {fileID: 1820897918385990095, guid: d6878e1999eb4b44a9f5a263af86c185, type: 3}
+      propertyPath: m_RequestedTrackingOriginMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2218496723442559053, guid: d6878e1999eb4b44a9f5a263af86c185, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.605
@@ -2168,7 +2157,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 419045961}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b0b7829b91a3c3a4b9a118dc22e29b25, type: 3}
   m_Name: 
@@ -4434,9 +4423,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df8e1f3d0d1530148aba1eb0efb942ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotateYOnly: 0
-  invert: 0
-  cameraTransform: {fileID: 0}
 --- !u!114 &687881753
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4449,11 +4435,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3771eb15df04a9040b9c79b43f85c069, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  followSpeed: 5
-  distanceInFront: 2
-  heightOffset: 0
-  customTarget: {fileID: 0}
-  target: {fileID: 0}
 --- !u!114 &687881754
 MonoBehaviour:
   m_ObjectHideFlags: 0
